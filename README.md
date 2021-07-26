@@ -29,7 +29,7 @@ No profile page is complete without the following:
 - CSS
 
 ## Duration ⏰
-You may take anywhere up to 2+ hours on your profile if you wish.
+You may take however long you wish but please keep in mind that this is a talking point it doesn't have to be perfect
 
 ## Submitting your code 📬
 Once you're satisfied with your work, please push it up to a public GitHub repository and send us the link. 
